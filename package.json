@@ -19,5 +19,11 @@
     "intro"
   ],
   "author": "fer@ironhack.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
